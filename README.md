@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **[my personal website](https://www.davidatb.com)** — WordPress on a classic theme and two plugins I wrote myself.
 
-- 🧪 I ship my own products: Chrome extensions ([Retomo](https://retomo.app), ControlTabs), a PWA catalog ([Mostrable](https://mostrable.com)) and [Happy Hacking](https://happyhacking.app), a platform to learn defensive security in Spanish.
+- 🧪 I ship my own products: Chrome extensions ([Retomo](https://retomo.app), ControlTabs), [Mostrable](https://mostrable.com) — a PWA catalog —, [ClipManual](https://clipmanual.com) — screenshots into step-by-step guides — and [Happy Hacking](https://happyhacking.app), a platform to learn defensive security in Spanish.
 
 - 📝 I regularly write technical guides in Spanish on [www.davidatb.com/blog](https://www.davidatb.com/blog) — Linux and shell, Python automation, JavaScript, cybersecurity basics and technical SEO.
 
